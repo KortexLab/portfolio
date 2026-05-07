@@ -17,7 +17,7 @@ Conhecimento em **lógica de programação e aplicações com IA**.
 - Análise de sistemas e requisitos  
 - Lógica de programação  
 - Aplicações com IA  
-- Experiência consolidada em web (PHP, MySQL, WordPress, Magento) e infraestrutura de redes
+- Conhecimento prático em web (PHP, MySQL, WordPress, Magento) e infraestrutura de redes
 
 ### 📍 Localização
 Gravataí, RS – Brasil
