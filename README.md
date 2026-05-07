@@ -1,4 +1,4 @@
-# 👋 Olá, sou KortexLab
+# 👋 Olá, sou André Korte.
 
 **Formando em Análise e Desenvolvimento de Sistemas (UniRitter)**  
 Em constante busca por crescimento profissional.  
